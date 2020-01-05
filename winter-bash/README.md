@@ -25,7 +25,7 @@ charger, and start your winter coding off right.
 
 Until next time, take care! \-- Prez
 
-![](https://raw.githubusercontent.com/Hunter-Open-Source-Club/Planning/master/2019-Winter-Bash.jpg)
+![](hosc-winter-bash.jpg)
 
 Photo credits to
 
