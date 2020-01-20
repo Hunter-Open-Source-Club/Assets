@@ -1,11 +1,10 @@
-# Planning
-This is a planning repository intended for members of the e-board.
+# Assets
 
-Closed issues will be deleted. Active thoughts and projects will be listed below.
+This repository stores source files for our logos, posters, etc. These materials are licensed under the terms Creative Commons Share-Alike Attribution 4.0.
 
+[Notice of Deprecation: Our planning has moved here](https://github.com/orgs/Hunter-Open-Source-Club/projects/2)
 ---
 
-Just to get a few things on your radar: I have ideas for 3 events, 2 projects, and 1 video. These are tentative, nebulous ideas.
 
 ## Events
 
@@ -20,29 +19,16 @@ topics: Latex, Markdown, GitHub (and git)
 audience: all, intermediate
 software: pandoc/LaTeX/markdown/rmarkdown
 
-### Pre Discrete Structures Workshop
+~~### Pre Discrete Structures Workshop
 topics: proofs, combinatorics
 period: at least 4 sessions at 2 hours long, volunteers permitting
 audence: those taking discrete next semester
-reference: _Book of Proof_ by Richard Hammack
+reference: _Book of Proof_ by Richard Hammack~~
 
-### CS027
-sections:
-* "Demystifying the Terminal"
-* "Stress-free and Efficient Debugging"
-  - reading the documentation effectively
-  - asking efficient questions
 
 ## Projects
 
-### Cooperman Business Center Website re-write (active)
-
-### CSCI 127 Website re-write
-
-language: React+Redux
-Interactive Python Console for running example code
-annotations next to code blocks
-intelligently reference past labs
+~~### Cooperman Business Center Website re-write (active)~~
 
 ## Video
 
