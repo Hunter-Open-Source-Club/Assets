@@ -1,8 +1,11 @@
 # Keep it Real
 
-Original design based on spontaneous github status update.
+![](sticker-final.png)
 
-Don't convert with pandoc directly: 
+Original design based on spontaneous github status update. These files are available under
+the Creative Commons Share-Alike Attribution 4.0 license.
+
+ We can do better than converting with pandoc directly: 
 
 Makefile will run `pandoc sticker.md -o sticker-interim.pdf`
 

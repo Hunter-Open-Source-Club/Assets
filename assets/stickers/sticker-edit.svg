@@ -14,7 +14,10 @@
    version="1.1"
    id="svg90"
    sodipodi:docname="sticker-edit.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:export-filename="/home/ralph/github/Assets/assets/stickers/sticker-final.png"
+   inkscape:export-xdpi="1083.41"
+   inkscape:export-ydpi="1083.41">
   <metadata
      id="metadata94">
     <rdf:RDF>
@@ -40,8 +43,8 @@
      id="namedview92"
      showgrid="false"
      inkscape:zoom="18.119501"
-     inkscape:cx="31.90837"
-     inkscape:cy="2.6913311"
+     inkscape:cx="25.62827"
+     inkscape:cy="7.70746"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -163,7 +166,7 @@
          width="100%"
          height="100%"
          style="fill:#000000;fill-opacity:1"
-         transform="translate(0.14132068)" />
+         transform="translate(0.23275502)" />
       <use
          xlink:href="#glyph0-2"
          x="9.9970303"
@@ -196,7 +199,8 @@
          id="use59"
          width="100%"
          height="100%"
-         style="fill:#000000;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1"
+         transform="translate(-0.41145453)" />
       <use
          xlink:href="#glyph0-5"
          x="28.80764"
@@ -204,7 +208,8 @@
          id="use61"
          width="100%"
          height="100%"
-         style="fill:#000000;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1"
+         transform="translate(-0.41145453)" />
       <use
          xlink:href="#glyph1-1"
          x="35.162998"
