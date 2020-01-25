@@ -1,6 +1,7 @@
 # Assets
 
-This repository stores source files for our logos, posters, etc. These materials are licensed under the terms Creative Commons Share-Alike Attribution 4.0.
+This repository stores source files for our logos, posters, etc. These materials are licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode). [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 
 [Notice of Deprecation: Our planning has moved here](https://github.com/orgs/Hunter-Open-Source-Club/projects/2)
 ---
