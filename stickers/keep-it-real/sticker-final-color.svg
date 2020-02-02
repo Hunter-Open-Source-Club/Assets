@@ -13,11 +13,8 @@
    viewBox="0 0 47.849 14.695"
    version="1.1"
    id="svg90"
-   sodipodi:docname="sticker-edit.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   inkscape:export-filename="/home/ralph/github/Assets/assets/stickers/sticker-final.png"
-   inkscape:export-xdpi="1083.41"
-   inkscape:export-ydpi="1083.41">
+   sodipodi:docname="sticker-final-color.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata94">
     <rdf:RDF>
@@ -26,31 +23,57 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="0.55686275"
      inkscape:pageshadow="2"
      inkscape:window-width="2560"
      inkscape:window-height="1408"
      id="namedview92"
      showgrid="false"
      inkscape:zoom="18.119501"
-     inkscape:cx="25.62827"
-     inkscape:cy="7.70746"
+     inkscape:cx="24.012125"
+     inkscape:cy="4.1283216"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg90" />
+     inkscape:current-layer="svg90"
+     inkscape:pagecheckerboard="true" />
   <defs
      id="defs43">
+    <linearGradient
+       id="linearGradient1046"
+       inkscape:collect="always">
+      <stop
+         id="stop1042"
+         offset="0"
+         style="stop-color:#5c2f6b;stop-opacity:1" />
+      <stop
+         id="stop1044"
+         offset="1"
+         style="stop-color:#002598;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient61">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop57" />
+      <stop
+         style="stop-color:#ff5ef6;stop-opacity:1"
+         offset="1"
+         id="stop59" />
+    </linearGradient>
     <g
        id="g29">
       <symbol
@@ -150,83 +173,162 @@
          d="M 0 14 L 47.847656 14 L 47.847656 14.695312 L 0 14.695312 Z M 0 14 "
          id="path40" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient61"
+       id="linearGradient63"
+       x1="8.0714149"
+       y1="9.4382324"
+       x2="51.739838"
+       y2="10.555814"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1046"
+       id="linearGradient951"
+       gradientUnits="userSpaceOnUse"
+       x1="1.2674481"
+       y1="-0.86038387"
+       x2="47.724827"
+       y2="10.390246"
+       gradientTransform="translate(-0.24835122,-0.24835122)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1002">
+      <g
+         id="g1040"
+         transform="translate(-0.20695935,-2.235161)">
+        <g
+           id="g1022"
+           style="fill:#000000;fill-opacity:1"
+           transform="matrix(0.90539001,0,0,0.90539001,2.2608154,0.77081789)">
+          <g
+             id="g1020"
+             transform="translate(0,0.78644534)">
+            <use
+               xlink:href="#glyph0-1"
+               x="3.3870001"
+               y="9.5640001"
+               id="use1004"
+               width="100%"
+               height="100%"
+               style="fill:#000000;fill-opacity:1"
+               transform="translate(0.14132068)" />
+            <use
+               xlink:href="#glyph0-2"
+               x="9.9970303"
+               y="9.5640001"
+               id="use1006"
+               width="100%"
+               height="100%"
+               style="fill:#000000;fill-opacity:1"
+               transform="translate(-0.0999288)" />
+            <use
+               xlink:href="#glyph0-2"
+               x="13.755745"
+               y="9.5640001"
+               id="use1008"
+               width="100%"
+               height="100%"
+               style="fill:#000000;fill-opacity:1" />
+            <use
+               xlink:href="#glyph0-3"
+               x="17.989679"
+               y="9.5640001"
+               id="use1010"
+               width="100%"
+               height="100%"
+               style="fill:#000000;fill-opacity:1" />
+            <use
+               xlink:href="#glyph0-4"
+               x="25.985018"
+               y="9.5640001"
+               id="use1012"
+               width="100%"
+               height="100%"
+               style="fill:#000000;fill-opacity:1" />
+            <use
+               xlink:href="#glyph0-5"
+               x="28.80764"
+               y="9.5640001"
+               id="use1014"
+               width="100%"
+               height="100%"
+               style="fill:#000000;fill-opacity:1" />
+            <use
+               xlink:href="#glyph1-1"
+               x="35.162998"
+               y="9.5640001"
+               id="use1016"
+               width="100%"
+               height="100%"
+               style="fill:#000000;fill-opacity:1" />
+            <use
+               xlink:href="#glyph0-6"
+               x="41.639"
+               y="9.5640001"
+               id="use1018"
+               width="100%"
+               height="100%" />
+          </g>
+        </g>
+        <g
+           style="clip-rule:nonzero"
+           id="g1026"
+           clip-path="url(#clip1)">
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="m 0,0.39821875 v -0.3984375 h 47.847656 v 0.3984375 z"
+             id="path1024"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           style="clip-rule:nonzero"
+           id="g1030"
+           clip-path="url(#clip2)">
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="M -2.1875e-4,14.496 V 0.199125 h 0.3984375 V 14.496 Z"
+             id="path1028"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           style="clip-rule:nonzero"
+           id="g1034"
+           clip-path="url(#clip3)">
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="M 47.449781,14.496 V 0.199125 h 0.398438 V 14.496 Z"
+             id="path1032"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           style="clip-rule:nonzero"
+           id="g1038"
+           clip-path="url(#clip4)">
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="m 0,14.695219 v -0.398438 h 47.847656 v 0.398438 z"
+             id="path1036"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </clipPath>
   </defs>
-  <g
-     id="g71"
-     style="fill:#000000;fill-opacity:1"
-     transform="matrix(0.90539001,0,0,0.90539001,2.2608154,0.77081789)">
-    <g
-       id="g974"
-       transform="translate(0,0.78644534)">
-      <use
-         xlink:href="#glyph0-1"
-         x="3.3870001"
-         y="9.5640001"
-         id="use45"
-         width="100%"
-         height="100%"
-         style="fill:#000000;fill-opacity:1"
-         transform="translate(0.23275502)" />
-      <use
-         xlink:href="#glyph0-2"
-         x="9.9970303"
-         y="9.5640001"
-         id="use49"
-         width="100%"
-         height="100%"
-         style="fill:#000000;fill-opacity:1"
-         transform="translate(-0.0999288)" />
-      <use
-         xlink:href="#glyph0-2"
-         x="13.755745"
-         y="9.5640001"
-         id="use53"
-         width="100%"
-         height="100%"
-         style="fill:#000000;fill-opacity:1" />
-      <use
-         xlink:href="#glyph0-3"
-         x="17.989679"
-         y="9.5640001"
-         id="use55"
-         width="100%"
-         height="100%"
-         style="fill:#000000;fill-opacity:1" />
-      <use
-         xlink:href="#glyph0-4"
-         x="25.985018"
-         y="9.5640001"
-         id="use59"
-         width="100%"
-         height="100%"
-         style="fill:#000000;fill-opacity:1"
-         transform="translate(-0.41145453)" />
-      <use
-         xlink:href="#glyph0-5"
-         x="28.80764"
-         y="9.5640001"
-         id="use61"
-         width="100%"
-         height="100%"
-         style="fill:#000000;fill-opacity:1"
-         transform="translate(-0.41145453)" />
-      <use
-         xlink:href="#glyph1-1"
-         x="35.162998"
-         y="9.5640001"
-         id="use65"
-         width="100%"
-         height="100%"
-         style="fill:#000000;fill-opacity:1" />
-      <use
-         xlink:href="#glyph0-6"
-         x="41.639"
-         y="9.5640001"
-         id="use69"
-         width="100%"
-         height="100%" />
-    </g>
-  </g>
+  <rect
+     style="opacity:1;vector-effect:none;fill:#faf5fb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.28346458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect1048"
+     width="47.847656"
+     height="14.695312"
+     x="0.00050050998"
+     y="1e-07" />
+  <path
+     style="opacity:1;vector-effect:none;fill:url(#linearGradient951);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.28346458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     clip-path="url(#clipPath1002)"
+     d="M -5.1739837,-9.3122846 H 53.561082 V 21.897186 H -5.1739837 Z"
+     id="rect55"
+     inkscape:connector-curvature="0"
+     transform="translate(0.20745986,2.2351611)" />
   <g
      id="g51"
      style="fill:#000000;fill-opacity:1" />
@@ -239,48 +341,4 @@
   <g
      id="g67"
      style="fill:#000000;fill-opacity:1" />
-  <g
-     style="clip-rule:nonzero"
-     id="g75"
-     clip-path="url(#clip1)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path73"
-       transform="matrix(1,0,0,-1,0,0.199)"
-       d="M 0,-2.1875e-4 H 47.847656"
-       style="fill:none;stroke:#000000;stroke-width:0.398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-  </g>
-  <g
-     style="clip-rule:nonzero"
-     id="g79"
-     clip-path="url(#clip2)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path77"
-       transform="matrix(1,0,0,-1,0.199,14.496)"
-       d="M 2.1875e-4,-9.375e-5 V 14.296781"
-       style="fill:none;stroke:#000000;stroke-width:0.398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-  </g>
-  <g
-     style="clip-rule:nonzero"
-     id="g83"
-     clip-path="url(#clip3)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path81"
-       transform="matrix(1,0,0,-1,47.649,14.496)"
-       d="M -5.625e-4,-9.375e-5 V 14.296781"
-       style="fill:none;stroke:#000000;stroke-width:0.398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-  </g>
-  <g
-     style="clip-rule:nonzero"
-     id="g87"
-     clip-path="url(#clip4)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path85"
-       transform="matrix(1,0,0,-1,0,14.496)"
-       d="M 0,-9.375e-5 H 47.847656"
-       style="fill:none;stroke:#000000;stroke-width:0.398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-  </g>
 </svg>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="267.60077mm"
+   height="165.38638mm"
+   viewBox="0 0 267.60077 165.38638"
+   version="1.1"
+   id="svg2407"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="stripe-logo.svg">
+  <defs
+     id="defs2401">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4903"
+       x="-0.0067397691"
+       width="1.0134795"
+       y="-0.054663833"
+       height="1.1093277">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.50976067"
+         id="feGaussianBlur4905" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4816"
+       x="-0.0070586214"
+       width="1.0141172"
+       y="-0.037265807"
+       height="1.0745316">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.62814829"
+         id="feGaussianBlur4818" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4879"
+       x="-0.0070586214"
+       width="1.0141172"
+       y="-0.037265807"
+       height="1.0745316">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.62814829"
+         id="feGaussianBlur4881" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="439.98794"
+     inkscape:cy="180.69209"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2404">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(453.56824,32.889622)">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.981982;fill-rule:evenodd;stroke:none;stroke-width:0.33400002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4696"
+       width="267.60077"
+       height="165.38638"
+       x="-453.56824"
+       y="-32.889622"
+       inkscape:export-xdpi="174.17"
+       inkscape:export-ydpi="174.17" />
+    <text
+       id="text4686"
+       y="82.817955"
+       x="-319.33334"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.38118744px;line-height:1.25;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;letter-spacing:0px;word-spacing:0px;fill:#502078;fill-opacity:1;stroke:none;stroke-width:0.43452966"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Mono Prop';-inkscape-font-specification:'Latin Modern Mono Prop';text-align:center;text-anchor:middle;fill:#502078;fill-opacity:1;stroke-width:0.43452966"
+         y="82.817955"
+         x="-319.33334"
+         id="tspan4684"
+         sodipodi:role="line">Let's code a better future.</tspan></text>
+    <rect
+       transform="matrix(1,0,-0.20719345,0.9783,-421.64037,171.56009)"
+       y="-152.94644"
+       x="-17.0646"
+       height="40.454132"
+       width="200.56009"
+       id="rect4861"
+       style="opacity:0.34299999;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.75131834;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4879)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffeb00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.75131834;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4688"
+       width="200.56009"
+       height="40.454132"
+       x="-402.37039"
+       y="22.419079"
+       transform="matrix(1,0,-0.20719345,0.97829999,0,0)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.75131834;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4816)"
+       id="rect4798"
+       width="200.56009"
+       height="40.454132"
+       x="-21.243921"
+       y="-156.80296"
+       transform="matrix(1,0,-0.20719345,0.9783,-421.64037,171.56009)" />
+    <rect
+       transform="matrix(1,0,-0.20719345,0.97829999,0,0)"
+       y="18.562553"
+       x="-406.54971"
+       height="40.454132"
+       width="200.56009"
+       id="rect4690"
+       style="opacity:1;vector-effect:none;fill:#502078;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.75131834;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.43283653px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';letter-spacing:0px;word-spacing:0px;opacity:0.26000001;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.63582087;filter:url(#filter4903)"
+       x="-408.71326"
+       y="46.502926"
+       id="text4893"><tspan
+         sodipodi:role="line"
+         id="tspan4891"
+         x="-408.71326"
+         y="46.502926"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond Italic';fill:#000000;fill-opacity:1;stroke-width:0.63582087">Open Source Club</tspan></text>
+    <text
+       id="text4694"
+       y="46.502926"
+       x="-408.71326"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.43283653px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.63582087"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond Italic';fill:#ffffff;fill-opacity:1;stroke-width:0.63582087"
+         y="46.502926"
+         x="-408.71326"
+         id="tspan4692"
+         sodipodi:role="line">Open Source Club</tspan></text>
+  </g>
+</svg>
