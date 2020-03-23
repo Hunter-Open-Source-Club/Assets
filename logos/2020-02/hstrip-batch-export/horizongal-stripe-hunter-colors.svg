@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="horizongal-stripe-hunter-colors.svg">
+   sodipodi:docname="horizongal-stripe-hunter-colors.svg"
+   inkscape:export-filename="/home/ralph/github/Assets/logos/2020-02/hstrip-batch-export/textblur.png"
+   inkscape:export-xdpi="444.32001"
+   inkscape:export-ydpi="444.32001">
   <defs
      id="defs2">
     <filter
@@ -174,17 +177,56 @@
          stdDeviation="0.098070071"
          id="feGaussianBlur5084-5" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5082-3-3"
+       x="-0.0084384605"
+       width="1.0168769"
+       y="-0.020763416"
+       height="1.0415268">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.098070071"
+         id="feGaussianBlur5084-5-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5147-7-7"
+       x="-0.0092361933"
+       width="1.0184724"
+       y="-0.016601572"
+       height="1.0332031">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.17038992"
+         id="feGaussianBlur5149-5-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5161-3-3"
+       x="-0.018415829"
+       width="1.0368317"
+       y="-0.033387449"
+       height="1.0667748">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.34267144"
+         id="feGaussianBlur5163-6-5" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#000000"
      bordercolor="#ffffff"
      borderopacity="1"
-     inkscape:pageopacity="0.39607843"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="58.870294"
-     inkscape:cy="91.909646"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="132.75854"
+     inkscape:cy="175.62877"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -700,8 +742,8 @@
        height="82.319016"
        x="-8.7288723"
        y="-395.31018"
-       inkscape:export-xdpi="222.16"
-       inkscape:export-ydpi="222.16" />
+       inkscape:export-xdpi="444.32001"
+       inkscape:export-ydpi="444.32001" />
     <rect
        style="opacity:1;vector-effect:none;fill:#020200;fill-opacity:0.2837838;fill-rule:evenodd;stroke:none;stroke-width:0.45747465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5161-3)"
        id="rect5151-2"
@@ -717,7 +759,9 @@
        height="33.871815"
        width="53.058182"
        id="rect4524-6-9"
-       style="opacity:1;vector-effect:none;fill:#ffeb00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.62907088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;vector-effect:none;fill:#ffeb00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.62907088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="444.32001"
+       inkscape:export-ydpi="444.32001" />
     <rect
        transform="matrix(1.3750945,0,-0.28491057,1.3452549,-216.17911,-778.41957)"
        y="301.72128"
@@ -725,7 +769,9 @@
        height="24.632355"
        width="38.210926"
        id="rect5105-1"
-       style="opacity:1;vector-effect:none;fill:#13081d;fill-opacity:0.45945949;fill-rule:evenodd;stroke:none;stroke-width:0.45747465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5147-7)" />
+       style="opacity:1;vector-effect:none;fill:#13081d;fill-opacity:0.45945949;fill-rule:evenodd;stroke:none;stroke-width:0.45747465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5147-7)"
+       inkscape:export-xdpi="418"
+       inkscape:export-ydpi="418" />
     <rect
        style="opacity:1;vector-effect:none;fill:#502078;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.62907088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4518-1-2"
@@ -733,14 +779,18 @@
        height="33.871815"
        x="-71.366104"
        y="-380.957"
-       transform="matrix(1,0,-0.20719345,0.97829999,0,0)" />
+       transform="matrix(1,0,-0.20719345,0.97829999,0,0)"
+       inkscape:export-xdpi="426.45001"
+       inkscape:export-ydpi="426.45001" />
     <text
        id="text5028-7"
        y="278.0545"
        x="161.67336"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.48595047px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.44594595;stroke:none;stroke-width:0.38714871;filter:url(#filter5082-3)"
        xml:space="preserve"
-       transform="matrix(1.3750945,0,0,1.3750945,-213.14878,-731.11699)"><tspan
+       transform="matrix(1.3750945,0,0,1.3750945,-213.14878,-731.11699)"
+       inkscape:export-xdpi="444.32001"
+       inkscape:export-ydpi="444.32001"><tspan
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond Italic';fill:#000000;fill-opacity:0.44594595;stroke-width:0.38714871"
          y="278.0545"
          x="161.67336"
@@ -751,11 +801,77 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.29464531px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53236604"
        x="8.7950306"
        y="-348.95877"
-       id="text4522-0-9"><tspan
+       id="text4522-0-9"
+       inkscape:export-xdpi="444.32001"
+       inkscape:export-ydpi="444.32001"><tspan
          sodipodi:role="line"
          id="tspan4520-6-3"
          x="8.7950306"
          y="-348.95877"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond Italic';fill:#ffffff;fill-opacity:1;stroke-width:0.53236604">OSC</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4940-6"
+       width="82.319016"
+       height="82.319016"
+       x="-171.49602"
+       y="-305.88181"
+       inkscape:export-xdpi="222.16"
+       inkscape:export-ydpi="222.16" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#020200;fill-opacity:0.2837838;fill-rule:evenodd;stroke:none;stroke-width:0.45747465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5161-3-3)"
+       id="rect5151-2-2"
+       width="38.585117"
+       height="24.632355"
+       x="227.84995"
+       y="304.02179"
+       transform="matrix(1.3750945,0,-0.28491058,1.3452549,-379.0031,-689.0253)" />
+    <rect
+       transform="matrix(1,0,-0.20719345,0.97829999,0,0)"
+       y="-286.31592"
+       x="-211.69395"
+       height="33.871815"
+       width="53.058182"
+       id="rect4524-6-9-9"
+       style="opacity:1;vector-effect:none;fill:#ffeb00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.62907088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       transform="matrix(1.3750945,0,-0.28491058,1.3452549,-378.94625,-688.99119)"
+       y="301.72128"
+       x="225.36192"
+       height="24.632355"
+       width="38.210926"
+       id="rect5105-1-1"
+       style="opacity:1;vector-effect:none;fill:#13081d;fill-opacity:0.45945949;fill-rule:evenodd;stroke:none;stroke-width:0.45747465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5147-7-7)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#502078;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.62907088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4518-1-2-2"
+       width="52.543633"
+       height="33.871815"
+       x="-215.19327"
+       y="-289.54498"
+       transform="matrix(1,0,-0.20719345,0.97829999,0,0)" />
+    <text
+       id="text5028-7-7"
+       y="278.0545"
+       x="161.67336"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.48595047px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.44594595;stroke:none;stroke-width:0.38714871;filter:url(#filter5082-3-3)"
+       xml:space="preserve"
+       transform="matrix(1.3750945,0,0,1.3750945,-375.91592,-641.68861)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond Italic';fill:#000000;fill-opacity:0.44594595;stroke-width:0.38714871"
+         y="278.0545"
+         x="161.67336"
+         id="tspan5026-0-0"
+         sodipodi:role="line">OSC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.29464531px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53236604"
+       x="-153.97211"
+       y="-259.5304"
+       id="text4522-0-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan4520-6-3-3"
+         x="-153.97211"
+         y="-259.5304"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond Italic';fill:#ffffff;fill-opacity:1;stroke-width:0.53236604">OSC</tspan></text>
   </g>
 </svg>
